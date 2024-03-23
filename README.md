@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on DABubble, a Chatmessanger in cooperation with contributors.
 
-- 🌱 I’m currently learning **Agnular and Firebase/Firestore**
+- 🌱 I’m currently learning **Angular and Firebase/Firestore**
 
 - 📫 How to reach me **info@pierce-chang.de**
 
