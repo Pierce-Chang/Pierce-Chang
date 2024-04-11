@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pierce Chang</h1>
 <h3 align="center">A passionate Frontend Developer from Germany</h3>
 
-- 🔭 I’m currently working on DABubble, a Chatmessanger in cooperation with contributors.
+- 🔭 I’m currently working on a React based online shop for practincing use.
 
-- 🌱 I’m currently learning **Angular and Firebase/Firestore**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **info@pierce-chang.de**
 
