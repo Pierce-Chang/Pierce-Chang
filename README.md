@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierce Chang</h1>
-<h3 align="center">A passionate Frontend Developer from Germany</h3>
+<h3 align="center">A passionate Web Developer from Germany</h3>
 
 - 🔭 I’m currently working on a React based online shop for practincing use.
 
