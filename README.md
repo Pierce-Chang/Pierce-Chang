@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a React based online shop for practincing use.
 
-- 🌱 I’m currently learning **React and Backend-Python**
+- 🌱 I’m currently learning **React and Backend-Python/Django/Docker**
 
 - 📫 How to reach me **info@pierce-chang.de**
 
