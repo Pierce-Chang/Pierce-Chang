@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pierce Chang</h1>
 <h3 align="center">A passionate Web Developer from Germany</h3>
 
-- 🔭 I’m currently working on a React based online shop for practincing use.
+- 🔭 I’m currently working on Python deep unterstanding.
 
-- 🌱 I’m currently learning **React and Backend-Python/Django/Docker**
+- 🌱 I’m currently learning **Backend-Python/Django/Docker**
 
 - 📫 How to reach me **info@pierce-chang.de**
 
