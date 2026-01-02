@@ -34,15 +34,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
- <img src="https://streak-stats.demolab.com?user=Pierce-Chang&border_radius=5" alt="GitHub Streak" />
-</div>
-
-###
