@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierce Chang</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
-- 🌱 I’m currently building a learling webapp to gererate worksheets for my son and other familys. You can try it out on lernikon.de
+- 🌱 I’m currently building a learning webapp to gererate worksheets for my son and other familys. You can try it out on lernikon.de
 
 - 📫 How to reach me **info@pierce-chang.de**
 
