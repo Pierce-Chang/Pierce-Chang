@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierce Chang</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
-- 🔭 I’m currently working on a Family Webapp where my familiy and friends can manage their life in one spot.
-  (What to eat next week? what do we need to buy for this? what are the next tasks for the house? etc. all managed in one place)
-
-- 🌱 I’m currently learning **Backend-Python/Django**
+- 🌱 I’m currently building a learling webapp to gererate worksheets for my son and other familys. You can try it out on lernikon.de
 
 - 📫 How to reach me **info@pierce-chang.de**
 
